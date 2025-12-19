@@ -167,7 +167,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kalpa-Mihiranga" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://ko-fi.com/Kalpa Mihiranga">
+  <a href="https://ko-fi.com/kalpamihiranga">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kalpa-Mihiranga" />
   </a>
 </p>

@@ -52,7 +52,7 @@
   <a href="https://linkedin.com/in/kalpa-mihiranga-496681319" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
-  <a href="https://fb.com/kalpa mihiranga" target="_blank">
+  <a href="https://fb.com/kalpa.mihiranga.583" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
   </a>
   <a href="https://instagram.com/offx._kalpa_" target="_blank">

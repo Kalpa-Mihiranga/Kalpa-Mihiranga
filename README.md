@@ -49,7 +49,7 @@
 <!-- =====================  CONNECT  ===================== -->
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="[www.linkedin.com/in/kalpa-mihiranga-496681319](https://www.linkedin.com/in/kalpa-mihiranga-496681319/?originalSubdomain=lk)" target="_blank">
+  <a href="https://linkedin.com/in/kalpa-mihiranga-496681319" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
   <a href="https://fb.com/kalpa mihiranga" target="_blank">
